@@ -4,4 +4,4 @@
 
 2. Our program began with package main. What would the files in the fmt package begin with?
 
-3. fmt.Println() finction prints text with new line, what function of fmt module should we use to print text without new line?
+3. fmt.Println() function prints text with new line, what function of fmt module should we use to print text without new line?
