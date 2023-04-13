@@ -23,7 +23,7 @@ fmt.Println(slice) // [c d e f]
 You can also use your custom function.
 
 ```go
-package mainpackage main
+package main
 
 import (
 	"fmt"
