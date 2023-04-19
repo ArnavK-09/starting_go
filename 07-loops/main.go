@@ -1,6 +1,6 @@
 package main
 
-//imports
+// imports
 import "fmt"
 
 func main() {
