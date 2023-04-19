@@ -24,7 +24,7 @@ func main() {
 
 	// looping array
 	a := []string{
-		"Hello", "String", "Enjoy",
+		"Hello", "String", "Enjoy", "Hmm",
 	}
 	for value, index := range a {
 		log(index, value)
