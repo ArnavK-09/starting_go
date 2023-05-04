@@ -27,7 +27,7 @@ func main() {
 	a := []string{
 		"Hello", "String", "Enjoy", "Hmm",
 	}
-	for value, index := range a {
+	for index, value := range a {
 		log(index, value)
 	}
 	fmt.Println("\n")
